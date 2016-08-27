@@ -18,7 +18,7 @@
 Filtering can be applied to specific channels as well.
 
 ## Installation
-Installation instructions to follow here.
+Look at the regex pattern and change it to see how you see fit.
 
 ## Documentation
 Any further documentation to be written here, or referred to elsewhere.
