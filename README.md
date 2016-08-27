@@ -1,6 +1,6 @@
-# discord-bot-chatfilter [![Build Status](https://img.shields.io/travis/pogodev/discord-bot-chatfilter/master.svg)](https://img.shields.io/travis/pogodev/discord-bot-chatfilter) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-chatfilter/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-chatfilter?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](#)
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-![repo-logo-placeholder](https://github.com/pogodevorg/assets/blob/master/img/685x176.png?raw=true)
+# discord-bot-chatfilter [![Build Status](https://img.shields.io/travis/pogodev/discord-bot-chatfilter/master.svg)](https://img.shields.io/travis/pogodev/discord-bot-chatfilter) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-chatfilter/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-chatfilter?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](#)
 
 ## Table of Contents
 
@@ -39,7 +39,6 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/fkndean.png?size=36) - fkndean](https://github.com/fkndean)
 
 ## Credits
-
 Credits to enjoy2000 for base.
 
 Modified to work with the PogoDev Discord Server ([https://discord.pogodev.org](https://discord.pogodev.org)).
