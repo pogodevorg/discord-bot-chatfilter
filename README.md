@@ -14,13 +14,14 @@
 * [Credits](#credits)
 
 ## What is it?
-`discord-bot-chatfilter` is an open source repo for cats...
+`discord-bot-chatfilter` is an open source repo for filtering out certain keywords for chat using regex pattern.
+Filtering can be applied to specific channels as well.
 
 ## Installation
 Installation instructions to follow here.
 
 ## Documentation
-Any further documentation to be written here, or refered to elsewhere.
+Any further documentation to be written here, or referred to elsewhere.
 
 ## Licensing
 [GNU GPL](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE), v3 or later.
