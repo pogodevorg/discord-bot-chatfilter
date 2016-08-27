@@ -1,6 +1,6 @@
-[![POGODEV](https://github.com/pogodevorg/assets/blob/master/img/logo-github.png)](https://pogodev.org)
+# discord-bot-chatfilter [![Build Status](https://img.shields.io/travis/pogodev/discord-bot-chatfilter/master.svg)](https://img.shields.io/travis/pogodev/discord-bot-chatfilter) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-chatfilter/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-chatfilter?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](#)
 
-# discord-bot-chatfilter [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE)
+![repo-logo-placeholder](https://github.com/pogodevorg/assets/blob/master/img/685x176.png?raw=true)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 * [Credits](#credits)
 
 ## What is it?
-`discord-bot-chatfilter` is an open source repo for filtering out certain keywords for chat using regex pattern.
+`discord-bot-chatfilter` is an open source bot for filtering out certain keywords in discord chat using regex pattern.
 Filtering can be applied to specific channels as well.
 
 ## Installation
@@ -24,7 +24,7 @@ Installation instructions to follow here.
 Any further documentation to be written here, or referred to elsewhere.
 
 ## Licensing
-[GNU GPL](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE)
+[GNU GPL](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE) v3 or later.
 
 ### Third Party Licenses
     None
@@ -41,4 +41,5 @@ Currently, you can contribute to this project by:
 ## Credits
 
 Credits to enjoy2000 for base.
+
 Modified to work with the PogoDev Discord Server ([https://discord.pogodev.org](https://discord.pogodev.org)).
