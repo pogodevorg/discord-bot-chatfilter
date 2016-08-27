@@ -24,7 +24,7 @@ Installation instructions to follow here.
 Any further documentation to be written here, or referred to elsewhere.
 
 ## Licensing
-[GNU GPL](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE), v3 or later.
+[GNU GPL](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE)
 
 ### Third Party Licenses
     None
