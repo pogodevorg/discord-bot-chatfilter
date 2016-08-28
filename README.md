@@ -1,6 +1,7 @@
 [![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-# discord-bot-chatfilter [![Build Status](https://img.shields.io/travis/pogodevorg/discord-bot-chatfilter/master.svg)](https://img.shields.io/travis/pogodevorg/discord-bot-chatfilter) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-chatfilter/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-chatfilter?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](#)
+# discord-bot-chatfilter
+[![Build Status](https://travis-ci.org/pogodevorg/discord-bot-chatfilter.svg?branch=master)](https://travis-ci.org/pogodevorg/discord-bot-chatfilter) [![Code Climate](https://codeclimate.com/github/pogodevorg/discord-bot-chatfilter/badges/gpa.svg)](https://codeclimate.com/github/pogodevorg/discord-bot-chatfilter) [![Issue Count](https://codeclimate.com/github/pogodevorg/discord-bot-chatfilter/badges/issue_count.svg)](https://codeclimate.com/github/pogodevorg/discord-bot-chatfilter) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-chatfilter.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/discord-bot-chatfilter/blob/master/LICENSE.md)
 
 ## Table of Contents
 * [What is it?](#what-is-it)
